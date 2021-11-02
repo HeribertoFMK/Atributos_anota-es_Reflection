@@ -1,0 +1,16 @@
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\_03_ValidacaoCustomizada.exe
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\_03_ValidacaoCustomizada.deps.json
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\_03_ValidacaoCustomizada.runtimeconfig.json
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\_03_ValidacaoCustomizada.runtimeconfig.dev.json
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\_03_ValidacaoCustomizada.dll
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\ref\_03_ValidacaoCustomizada.dll
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\bin\Debug\net5.0\_03_ValidacaoCustomizada.pdb
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.AssemblyInfoInputs.cache
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.AssemblyInfo.cs
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.csproj.CoreCompileInputs.cache
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.dll
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\ref\_03_ValidacaoCustomizada.dll
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.pdb
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.genruntimeconfig.cache
+C:\CursoC#\_01_Atributo\_03_ValidacaoCustomizada\obj\Debug\net5.0\_03_ValidacaoCustomizada.csproj.AssemblyReference.cache

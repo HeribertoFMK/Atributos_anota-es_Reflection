@@ -1,0 +1,15 @@
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\_01_Atributo.exe
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\_01_Atributo.deps.json
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\_01_Atributo.runtimeconfig.json
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\_01_Atributo.runtimeconfig.dev.json
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\_01_Atributo.dll
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\ref\_01_Atributo.dll
+C:\CursoC#\_01_Atributo\_01_Atributo\bin\Debug\net5.0\_01_Atributo.pdb
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.AssemblyInfoInputs.cache
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.AssemblyInfo.cs
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.csproj.CoreCompileInputs.cache
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.dll
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\ref\_01_Atributo.dll
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.pdb
+C:\CursoC#\_01_Atributo\_01_Atributo\obj\Debug\net5.0\_01_Atributo.genruntimeconfig.cache

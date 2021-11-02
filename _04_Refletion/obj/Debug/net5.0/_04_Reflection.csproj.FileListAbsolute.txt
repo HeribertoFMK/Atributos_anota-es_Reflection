@@ -1,0 +1,16 @@
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.AssemblyInfoInputs.cache
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.AssemblyInfo.cs
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.csproj.CoreCompileInputs.cache
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\_04_Reflection.exe
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\_04_Reflection.deps.json
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\_04_Reflection.runtimeconfig.json
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\_04_Reflection.runtimeconfig.dev.json
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\_04_Reflection.dll
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\ref\_04_Reflection.dll
+C:\CursoC#\_01_Atributo\_04_Refletion\bin\Debug\net5.0\_04_Reflection.pdb
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.dll
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\ref\_04_Reflection.dll
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.pdb
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.genruntimeconfig.cache
+C:\CursoC#\_01_Atributo\_04_Refletion\obj\Debug\net5.0\_04_Reflection.csproj.AssemblyReference.cache

@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "_01_Atributo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/_01_Atributo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_01_Atributo.dll": {}
+        }
+      },
+      "_03_ValidacaoCustomizada/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/_03_ValidacaoCustomizada.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_03_ValidacaoCustomizada.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_01_Atributo/1.0.0": {
+      "type": "project",
+      "path": "../_01_Atributo/_01_Atributo.csproj",
+      "msbuildProject": "../_01_Atributo/_01_Atributo.csproj"
+    },
+    "_03_ValidacaoCustomizada/1.0.0": {
+      "type": "project",
+      "path": "../_03_ValidacaoCustomizada/_03_ValidacaoCustomizada.csproj",
+      "msbuildProject": "../_03_ValidacaoCustomizada/_03_ValidacaoCustomizada.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "_01_Atributo >= 1.0.0",
+      "_03_ValidacaoCustomizada >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Heriberto\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\CursoC#\\_01_Atributo\\_02_Validacao\\_02_Validacao.csproj",
+      "projectName": "_02_Validacao",
+      "projectPath": "C:\\CursoC#\\_01_Atributo\\_02_Validacao\\_02_Validacao.csproj",
+      "packagesPath": "C:\\Users\\Heriberto\\.nuget\\packages\\",
+      "outputPath": "C:\\CursoC#\\_01_Atributo\\_02_Validacao\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Heriberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\CursoC#\\_01_Atributo\\_01_Atributo\\_01_Atributo.csproj": {
+              "projectPath": "C:\\CursoC#\\_01_Atributo\\_01_Atributo\\_01_Atributo.csproj"
+            },
+            "C:\\CursoC#\\_01_Atributo\\_03_ValidacaoCustomizada\\_03_ValidacaoCustomizada.csproj": {
+              "projectPath": "C:\\CursoC#\\_01_Atributo\\_03_ValidacaoCustomizada\\_03_ValidacaoCustomizada.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
